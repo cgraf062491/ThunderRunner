@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 34609067009e5453d829422ba2eed3c3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - titleMusic: {fileID: 8300000, guid: bc5321d68e2e7401a9355a660dea96c4, type: 3}
+  - playMusic: {fileID: 8300000, guid: 4dc2a294b030343c6a56f5b57f2c0645, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
